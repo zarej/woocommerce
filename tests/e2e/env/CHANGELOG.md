@@ -1,3 +1,8 @@
+# 0.2.0
+
+## Added
+- support for custom container name
+
 # 0.16
 
 ## Added
